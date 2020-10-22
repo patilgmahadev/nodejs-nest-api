@@ -1,0 +1,37 @@
+[
+  {
+    "paramName": "dwutlenek siarki",
+    "paramCode": "SO2",
+    "id": 1
+  },
+  {
+    "paramName": "pył zawieszony PM2.5",
+    "paramCode": "PM2.5",
+    "id": 69
+  },
+  {
+    "paramName": "pył zawieszony PM10",
+    "paramCode": "PM10",
+    "id": 3
+  },
+  {
+    "paramName": "ozon",
+    "paramCode": "O3",
+    "id": 5
+  },
+  {
+    "paramName": "dwutlenek azotu",
+    "paramCode": "NO2",
+    "id": 6
+  },
+  {
+    "paramName": "tlenek węgla",
+    "paramCode": "CO",
+    "id": 8
+  },
+  {
+    "paramName": "benzen",
+    "paramCode": "C6H6",
+    "id": 10
+  }
+]

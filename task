@@ -1,0 +1,10 @@
+1-Move code which is used to checking permissions (is admin or not) and checking api Keys to 
+different injectable class / function. I dont want to have too much redundant code.
+
+2-Change logic of api key checking. Currently for some endpoints api key is required to make GET 
+request. This is ok for f.e. mobile apps or other external services. But for testing and dashboard 
+I want to provide only token. If is admin logged in, I dont want to check api keys. So also in 
+Swagger api key should be optional parameter.
+
+
+Here are two firsts tasks. Is it clear? Do you have any questions?
